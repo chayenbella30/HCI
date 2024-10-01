@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.Geovani", "HCI.Geovani\HCI.Geovani.csproj", "{CB322C64-B3DF-4867-96EB-30A47A77279A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB322C64-B3DF-4867-96EB-30A47A77279A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB322C64-B3DF-4867-96EB-30A47A77279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB322C64-B3DF-4867-96EB-30A47A77279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB322C64-B3DF-4867-96EB-30A47A77279A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEB2024-618C-4BAA-839C-9C250BD8495D}
+	EndGlobalSection
+EndGlobal
